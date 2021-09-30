@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url('bj.jpg') no-repeat;
+    background: url('image.jpg') no-repeat;
     background-size: cover;
 }
 
@@ -15,7 +15,7 @@ body{
     left: 30%;
     transform: translate(50%, -50%);
     position: absolute;
-    color: rgb(97, 10, 168);
+    color: rgb(143, 221, 17);
 }
 
 .login-form h1 {
@@ -46,4 +46,5 @@ body{
     padding: 10px 15px;
     border-radius: 5px;
     border: 0;
+    background-color: #a9dd19;
 }    
